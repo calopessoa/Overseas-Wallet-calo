@@ -1,7 +1,7 @@
 # Overseas-Wallet-calo
 
 Deployed at:
-overseas-wallet.vercel.app
+http://overseas-wallet.vercel.app/
 
 Project done for the fullstack web developer's course at Trybe. Technologies used: React-redux, API fetch and async actions.
 
